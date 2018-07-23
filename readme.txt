@@ -3,3 +3,4 @@
 3.自动化检测性能？
 4.
 5.add something for test git 
+6.add info 
